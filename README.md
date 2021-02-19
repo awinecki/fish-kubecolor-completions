@@ -11,7 +11,7 @@ $ ln -s ../fish-kubecolor-completions/completions/kubecolor.fish completions/
 
 ### Install using [Fisher](https://github.com/jorgebucaran/fisher)
 
-`fisher install evanlucas/fish-kubecolor-completions`
+`fisher install awinecki/fish-kubecolor-completions`
 
 ## Building
 
